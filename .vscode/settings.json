@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "eslint.format.enable": true,
+    "editor.formatOnSave": false,
+    "css.lint.unknownAtRules": "ignore",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "security.workspace.trust.enabled": false,
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "vite.autoStart": false,
+    "vue.codeActions.enabled": false,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
